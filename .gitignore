@@ -1,0 +1,16 @@
+# Power BI temporary files
+*.pbix.tmp
+
+# Large dataset
+01_Dataset/nifty50_historical_data.csv
+01_Datasets/nifty50_historical_data.csv
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
