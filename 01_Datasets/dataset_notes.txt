@@ -1,0 +1,4 @@
+Indian Stock Market Analytics Dashboard - Dataset Notes 
+Dataset contains historical stock market information. 
+Fields: Date, Company, Open, High, Low, Close, Volume 
+Source: Historical market data 
